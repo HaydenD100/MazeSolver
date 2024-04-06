@@ -3,11 +3,9 @@ This project is a combination of two algorithms that I had recently implemented:
 
 Using these two algorithms this program generates a random maze and then solves it by finding the shortest path from the start tile(light blue) to the end tile (light green)
 
+# GIF's of the program
 ![gif](/docs/assets/gifVideo.gif)
-This GIF shows the Maze being generated.
-
 ![gif](/docs/assets/gif2Video.gif)
-This GIF shows the Maze being solved.
 
 # Development
 Coded in c++ with SDL2 for rendering.
